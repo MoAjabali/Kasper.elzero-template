@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./meadi/logo.png" />
-  <h1 align="center"><a href=""> Kasper | Elzero template tow </a></h1>
+  <h1 align="center"><a href="https://mohammed-aljablai.github.io/Kasper.elzero-template/"> Kasper | Elzero template tow </a></h1>
   <p align="center">
      This is a solution fro <a href="https://elzero.org/practical-html-css/">Elzero HTML, CSS Templates practice</a>. From <a href="https://elzero.org/">Elzero web School</a>.
   <br>
@@ -33,7 +33,7 @@ This website is a solution for the second website of four website (template) tha
 **Note:** This website for educational purpose.
 
 ### Challenge Requirements 🏳
-> Simply programme the [website](https://) that have been given to you.
+> Simply programme the [website](https://elzerowebschool.github.io/HTML_And_CSS_Template_Two) that have been given to you.
 
 ### What I Implemented 🤔
 I programme the website to look exactly smiler.
@@ -46,8 +46,8 @@ I programme the website to look exactly smiler.
 They are like brother, aren't they 🤔.
 
 ### Links
-Original website: [https://](https)
-Mine: [https://](https)
+Original website: [https://elzerowebschool.github.io/HTML_And_CSS_Template_Two](https://elzerowebschool.github.io/HTML_And_CSS_Template_Two)
+Mine: [https://mohammed-aljablai.github.io/Kasper.elzero-template/](https://mohammed-aljablai.github.io/Kasper.elzero-template/)
 
 ## My process
 ### Built with
