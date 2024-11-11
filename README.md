@@ -42,7 +42,7 @@ I programme the website to look exactly smiler.
 #### Original website
 ![The website design](./meadi/elzeroScreen.jpeg)
 #### Mine 🌚
-![The website Screenshot](./meadi/MyScreen.jpeg)
+![The website Screenshot](./meadi/myScreen.jpeg)
 They are like brother, aren't they 🤔.
 
 ### Links
