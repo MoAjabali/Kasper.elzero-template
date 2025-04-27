@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./meadi/logo.png" />
-  <h1 align="center"><a href="https://mohammed-aljablai.github.io/Kasper.elzero-template/"> Kasper | Elzero template tow </a></h1>
+  <h1 align="center"><a href="https://MoAjabali.github.io/Kasper.elzero-template/"> Kasper | Elzero template tow </a></h1>
   <p align="center">
      This is a solution fro <a href="https://elzero.org/practical-html-css/">Elzero HTML, CSS Templates practice</a>. From <a href="https://elzero.org/">Elzero web School</a>.
   <br>
@@ -20,11 +20,6 @@
   - [Built with](#built-with)
 - [Author](#author)
 - [Special Thanks](#special-thanks)
-
-
-
-
-
 
 ## Overview
 
@@ -47,7 +42,7 @@ They are like brother, aren't they 🤔.
 
 ### Links
 Original website: [https://elzerowebschool.github.io/HTML_And_CSS_Template_Two](https://elzerowebschool.github.io/HTML_And_CSS_Template_Two)
-Mine: [https://mohammed-aljablai.github.io/Kasper.elzero-template/](https://mohammed-aljablai.github.io/Kasper.elzero-template/)
+Mine: [https://MoAjabali.github.io/Kasper.elzero-template/](https://MoAjabali.github.io/Kasper.elzero-template/)
 
 ## My process
 ### Built with
@@ -56,7 +51,7 @@ Mine: [https://mohammed-aljablai.github.io/Kasper.elzero-template/](https://moha
 - Responsive website from the smallest screen to the biggest
 
 ## Author
-- [@mohammed-Aljablai](https://github.com/mohammed-aljablai)
+- [@MoAjabali](https://github.com/MoAjabali)
 
 ## Special Thanks
 After Thanks Allah and the person who support me, I would like to thanks the one who educated me and million of people like me Eng.[Osama Mohammed](https://github.com/OsamaElzero).
